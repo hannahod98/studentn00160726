@@ -56,8 +56,8 @@ gameScene.preload = function () {
     // load images
     this.load.image('background', 'assets/images/background.png');
     this.load.image('player', 'assets/images/player.png');
-    this.load.image('star', 'assets/images/star.png');
-    this.load.image('whale', 'assets/images/whale.png');
+    this.load.image('star', 'assets/images/star.PNG');
+    this.load.image('whale', 'assets/images/whale.PNG');
     this.load.image('button', 'assets/images/quit_button.png');
     //assets for mute audio
     this.load.image('sound', 'assets/images/soundOff.png');
